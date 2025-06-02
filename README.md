@@ -3,7 +3,7 @@ Multi-component Optimisation Framework for Urban Planning and Design
 
 # Minimum Working Example
 
-Install python 3.10.11 and dependencies
+Install dependencies (python 3.10)
 ```
 pip install -r requirements.txt
 ```
